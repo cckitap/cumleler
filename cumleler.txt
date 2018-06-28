@@ -2,3 +2,8 @@ Buy milk.
 Buy milk and eggs.
 Buy milk, eggs and cheese.
 Go to the doctor.
+Shave.
+Take a shower.
+Cook.
+Eat.
+Dishwash.
